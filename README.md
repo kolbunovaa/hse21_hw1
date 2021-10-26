@@ -55,6 +55,22 @@ time platanus assemble -o Poil -f trimmed_fastq/PE_R1.fastq.trimmed trimmed_fast
 time platanus scaffold -o Poil -c Poil_contig.fa -IP1 trimmed_fastq/PE_R1.fastq.trimmed  trimmed_fastq/PE_R2.fastq.trimmed -OP2 trimmed_fastq/MP_R1.fastq.int_trimmed trimmed_fastq/MP_R2.fastq.int_trimmed 2> scaffold.log
 ```
 ## До
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_22-39-13.png)
+## После
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_22-40-34.png)
+## До
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_22-56-16.png)
+## После
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_22-56-53.png)
+## До
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_22-58-51.png)
+## После
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_22-59-16.png)
+## До
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_23-01-37.png)
+## После
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_23-02-09.png)
+
 
 
 
