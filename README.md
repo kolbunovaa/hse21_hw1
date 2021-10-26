@@ -76,6 +76,8 @@ time platanus scaffold -o Poil -c Poil_contig.fa -IP1 trimmed_fastq/PE_R1.fastq.
 ![](https://github.com/kolbunovaa/images/blob/main/2021-10-26_23-19-26.png)
 ### Анализ контигов
 ![](https://github.com/kolbunovaa/images/blob/main/2021-10-27_01-23-01.png)
+### Анализ скаффолдов
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-27_01-56-10.png)
 
 
 
