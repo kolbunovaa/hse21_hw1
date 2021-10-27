@@ -93,7 +93,7 @@ echo scaffold1_cov231 > name_scaff.txt
 seqtk subseq Poil_gapClosed.fa name_scaff.txt > longest.fna
 rm -r name_scaff.txt
 ```
-![]()
+![](https://github.com/kolbunovaa/images/blob/main/2021-10-27_19-46-18.png)
 
 
 
